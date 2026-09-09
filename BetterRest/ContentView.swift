@@ -118,7 +118,7 @@ struct ContentView: View {
                                 time: .shortened
                             )
                         )
-                        .font(.system(size: 42, weight: .bold))
+                        .font(.system(size: 38, weight: .bold))
                         .foregroundStyle(.white)
                     }
                     .frame(maxWidth: .infinity)
