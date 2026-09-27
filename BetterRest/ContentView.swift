@@ -40,11 +40,11 @@ struct ContentView: View {
 
                     VStack(spacing: 8) {
                         Image(systemName: "moon.stars.fill")
-                            .font(.system(size: 45))
+                            .font(.system(size: 44))
                             .foregroundStyle(.white)
 
                         Text("BetterRest")
-                            .font(.system(size: 34, weight: .bold))
+                            .font(.system(size: 32, weight: .bold))
                             .foregroundStyle(.white)
 
                         Text("Find your ideal bedtime")
